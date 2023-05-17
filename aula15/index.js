@@ -13,6 +13,8 @@ const aleatorio2 = Math.round(Math.random() * (10 - 5) + 5)
 
 
 console.log(aleatorio2)
+console.log(aleatorio2)
+
 
 // console.log(num2)
 // console.log(num3)
