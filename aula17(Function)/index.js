@@ -30,5 +30,4 @@ mensagem();
 saudacao("Pedro");
 saudacao("João");
 calc(5);
-
 console.log(raiz(9));
